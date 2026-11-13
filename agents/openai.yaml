@@ -1,0 +1,5 @@
+interface:
+  display_name: "Minimal Defensive Coding"
+  short_description: "让防御性代码与真实风险相称"
+policy:
+  allow_implicit_invocation: true
